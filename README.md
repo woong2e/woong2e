@@ -9,7 +9,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=woong2e&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=050da3&text_color=000000&title_color=050da3&count_private=true" width=56% />
 </a>
 
-<img src="https://ghchart.rshah.org/woong2e" />
 
 
 
