@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=2024&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=2024&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=56)
 
 <a href="https://github.com/woong2e/">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woong2e&size_weight=0&count_weight=1&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=050da3&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
