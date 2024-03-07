@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=2024&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 <a href="https://github.com/woong2e/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woong2e&include_all_commits=true&size_weight=0.1&count_weight=0.9&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=050da3&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woong2e&include_all_commits=true&hide=html,css&size_weight=0.1&count_weight=0.9&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=58A6FF&text_color=000000&title_color=050da3&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
 </a>    
 <a href="https://github.com/woong2e/">
   <img src="https://github-readme-stats.vercel.app/api?username=woong2e&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=050da3&text_color=000000&title_color=050da3&count_private=true" width=56% />
