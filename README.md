@@ -28,6 +28,7 @@
 ![window](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 
 #### 🛠 Studying 🛠
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white)
 ![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
 
