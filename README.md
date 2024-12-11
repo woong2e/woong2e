@@ -42,7 +42,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tlswodnd4316)](https://solved.ac/tlswodnd4316/)
 
 ## certificate
-- 정보처리기사  - 202?
+- 정보처리기사  - 2024
 - SQLD - 2023
 - ADsP - 2022
 - 1종보통 - 2022
